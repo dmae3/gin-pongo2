@@ -1,7 +1,7 @@
 # gin-pongo2
 
-[![GoDoc](https://godoc.org/github.com/daine46/gin-pongo2?status.png)](https://godoc.org/github.com/daine46/pongo2)
-[![Build Status](https://travis-ci.org/daine46/pongo2.svg?branch=master)](https://travis-ci.org/daine46/pongo2)
+[![GoDoc](https://godoc.org/github.com/daine46/gin-pongo2?status.png)](https://godoc.org/github.com/daine46/gin-pongo2)
+[![Build Status](https://travis-ci.org/daine46/gin-pongo2.svg?branch=master)](https://travis-ci.org/daine46/gin-pongo2)
 
 pongo2 middleware for Gin
 
